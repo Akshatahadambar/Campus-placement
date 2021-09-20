@@ -5,12 +5,12 @@ Campus recruitment is a strategy for sourcing, engaging and hiring young talent 
 CampusPlacement.csv
 
 # Worked on:-
-#Import 
-#EDA
-#Data Visulaisation
-#Label Encoding
-#Model Creation
-#Hypertunning
+Import Libraries,
+EDA,
+Data Visulaisation,
+Label Encoding,
+Model Creation and
+Hypertunning
 
 # Conclusion :-
 We can see in Notebook the percentage of student placed accroding to gender, stream, speacialisation.
